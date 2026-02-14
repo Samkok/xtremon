@@ -1,0 +1,10 @@
+[00:00:01.058] Server  LOG     ✓ Ready in 953ms
+[00:00:02.475] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:03.107] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:07.728] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:17.047] Server  WARN    ⚠ Cross origin request detected from 192.168.1.77 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:17.098] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:46.199] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:48.893] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:53.508] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload

@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #020617; /* Deep Space Black */
+  --color-primary: #38bdf8; /* Electric Blue */
+  --color-secondary: #a855f7; /* Neon Violet */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  @apply text-white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+}
+
+a {
+  color: var(--color-primary);
+}
+
+a:hover {
+  color: #7dd3fc;
+}
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  .section-shell {
+    @apply py-16 md:py-24;
+  }
+
+  .section-inner {
+    @apply max-w-5xl mx-auto px-6;
+  }
+}
