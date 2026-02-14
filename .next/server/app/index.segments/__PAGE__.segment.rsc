@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[2911,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"HomeHero"]
+3:I[8520,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"StudioPhilosophySection"]
+4:I[9708,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"ProductPortfolioSection"]
+5:I[447,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"WhatWeBuildSection"]
+6:I[5150,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"TechnicalStandardsSection"]
+7:I[5071,["644","static/chunks/644-f01a8870f9739759.js","974","static/chunks/app/page-f28ad20dfe27af12.js"],"FinalCTASection"]
+8:I[484,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"buildId":"YbiK-Ony-NdZpbd4ialt0","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]],null,["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
